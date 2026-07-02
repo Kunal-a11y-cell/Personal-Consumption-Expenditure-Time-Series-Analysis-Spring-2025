@@ -1,0 +1,6 @@
+PCE Dataset: Monthly, in Billions of Dollars: https://fred.stlouisfed.org/series/PCE
+Disposable Personal Income: Monthly, in Billions of Dollars: https://fred.stlouisfed.org/series/DSPI
+Advance Retail Sales: Retail Trade: Monthly, in Millions of Dollars https://fred.stlouisfed.org/series/RSXFS
+CPI: for All Urban Consumers: All Items in US City Average Monthly, https://fred.stlouisfed.org/series/CPIAUCSL
+Federal Funds Effective Rate, or the Interest Rate, Monthly, Percent: https://fred.stlouisfed.org/series/FEDFUNDS
+Unemployment Rate: Percent, Monthly: https://fred.stlouisfed.org/series/UNRATE
